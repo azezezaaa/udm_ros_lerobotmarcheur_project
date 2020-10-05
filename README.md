@@ -1,6 +1,7 @@
 # udm_ros_lerobotmarcheur_project
 This repo contains the project for RI in Y1S2. Note that each folder (partie_1, partie_2 or partie_3) represents a separate section in the project. It is recommended to move each package to <catkin workspace>/src/ after retrieving this repo. Note that some files require adding permissions or making them executable:
- ```chmod +x <filename>
+ ```
+ chmod +x <filename>
  ```
 
 ## partie_1
